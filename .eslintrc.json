@@ -1,0 +1,11 @@
+{
+  "root": true,
+	"parser": "@typescript-eslint/parser",
+	"plugins": [
+	  "@typescript-eslint"
+	],
+  "extends": "@rocketseat/eslint-config/react",
+  "rules": {
+    "no-unused-vars": "off"
+  }
+}
